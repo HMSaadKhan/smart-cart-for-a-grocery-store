@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+##Assumptions
+This repositry is only for frontend.
+You must have mongodb. As I used local database so that the data cannot be fetched on your side.
+you can add produts, users from the postman. Postman file is given in the root directory of API repository.
+In the document you mention at first the cart should be popup and then you said cart should be seperate page. I made a seperate page for cart.
+Video is giving error on uploading because of its size. I am giving it to you through mail/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
