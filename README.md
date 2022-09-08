@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-##Assumptions
+## Assumptions
 This repositry is only for frontend.
 You must have mongodb. As I used local database so that the data cannot be fetched on your side.
 you can add produts, users from the postman. Postman file is given in the root directory of API repository.
